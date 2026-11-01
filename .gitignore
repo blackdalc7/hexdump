@@ -1,0 +1,7 @@
+/build/
+*.o
+*.out
+hexdump
+.DS_Store
+.idea/
+.vscode/
