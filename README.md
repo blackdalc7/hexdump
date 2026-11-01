@@ -1,5 +1,7 @@
 # hexdump
 
+[![CI](https://github.com/blackdalc7/hexdump/actions/workflows/ci.yml/badge.svg)](https://github.com/blackdalc7/hexdump/actions/workflows/ci.yml)
+
 A small `hexdump -C` clone written in C: it prints a file as offset + hex +
 ASCII, the format you reach for whenever you need to see what is *actually* in a
 binary. Written to understand how that classic layout is produced, and to
